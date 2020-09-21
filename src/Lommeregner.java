@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.*;
 
-public class Lommeregner {
+public class Lommeregner { KAGEMAND!
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
