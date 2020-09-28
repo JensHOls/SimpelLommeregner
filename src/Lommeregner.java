@@ -43,7 +43,7 @@ public class Lommeregner {
 
     }
     public static int plus(int x, int y) {
-        int resultat = x+y;
+        int resultat = x*y;
         System.out.println("Dit resultat er: ");
         return resultat;
     }
